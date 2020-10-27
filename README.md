@@ -23,6 +23,12 @@ también esta, esta ejecuta una consulta SQL (Structured Query Language), pero e
 # RespuestaCoincidencia: 
 por otro lado, esta implementación de la interfaz “IRespuesta” solo utiliza la función o método “sendRespuesta()” ya que en este caso se implementa otra función o método llamada “getPorcentaje” lo cual analiza cada respuesta retornada de una consulta a su base de conocimiento de cono cimiento. Esta función o método retorna la respuesta que más coinciden a través del número mayor de porcentaje de cada respuesta retornada, es decir esta función o método retorna la respuesta que más coinciden en base a la cantidad de caracteres iguales en base a las pregunta que están registrada en su base de conocimiento.
 
+# Screenshots:
+
+![image](https://github.com/BrunoBeltreGuzman/ChatBot/blob/master/Screenshots.png)
+
+![image](https://github.com/BrunoBeltreGuzman/ChatBot/blob/master/Screenshots2.png)
+
 # Herramientas, por supuesto
 •	Java
 •	NetBeans IDE 
